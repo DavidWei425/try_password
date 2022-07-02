@@ -1,1 +1,1 @@
-"此為猜密碼程式練習" 
+"try password test" 
